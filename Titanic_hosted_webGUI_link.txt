@@ -1,0 +1,6 @@
+1. Name: IFEANYI [Your Full Last Name]
+2. Matric Number: 23AG032711
+3. Machine Learning Algorithm Used: Random Forest Classifier
+4. Model persistence method used: Joblib
+5. Live URL of the hosted application: [Paste your Render or Streamlit URL here]
+6. GitHub repository link: https://github.com/[Your-Username]/Titanic_Project_IFEANYI_23AG032711
